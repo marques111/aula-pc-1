@@ -1,6 +1,6 @@
 <h1>HTML5-e-CSS3-Alura</h1> 
 
-> Status do Projeto: :heavy_check_mark: Concluído
+
 
 
 
